@@ -7,3 +7,12 @@
 \\FS04D\Stu6\Home\Ncollins9293\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.exe
 \\FS04D\Stu6\Home\Ncollins9293\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.pdb
 \\FS04D\Stu6\Home\Ncollins9293\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.Form1.resources
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\bin\Debug\IntegrationLab.exe.config
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.exe
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.pdb
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\bin\Debug\IntegrationLab.exe
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\bin\Debug\IntegrationLab.pdb
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.csprojResolveAssemblyReference.cache
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.Form1.resources
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.Properties.Resources.resources
+G:\PROG8170 - Software QA Techniques\Lab.2015.11.05\IntegrationLab\IntegrationLab\obj\Debug\IntegrationLab.csproj.GenerateResource.Cache
